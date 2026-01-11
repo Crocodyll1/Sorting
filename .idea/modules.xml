@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Sorting.iml" filepath="$PROJECT_DIR$/.idea/Sorting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arrays/SortingAlgo.iml" filepath="$PROJECT_DIR$/arrays/SortingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingMethods/SortingAlgo.iml" filepath="$PROJECT_DIR$/SortingMethods/SortingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingMethods/Arrays/h.iml" filepath="$PROJECT_DIR$/SortingMethods/Arrays/h.iml" />
     </modules>
   </component>
 </project>
