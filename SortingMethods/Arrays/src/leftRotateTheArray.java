@@ -14,3 +14,10 @@ public class leftRotateTheArray {
     }
 
 }
+
+
+
+/*
+this program is to rotate the elements from left and shift them to end of the array and create NEW One
+TC - O(N) whithout printing
+ */
