@@ -15,3 +15,8 @@ public class removingDuplicatesSortedArray {
         System.out.println("the length of final array after removing duplicates is : "+ (j+1));
     }
 }
+
+/*
+here the duplicate elements are removed from the sorted array
+TC- O(N)
+ */
