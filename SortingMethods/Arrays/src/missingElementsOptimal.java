@@ -15,7 +15,7 @@ public class missingElementsOptimal {
 }
 
 /* Missing Element from array Optimal approach 1
--In this method we calculated the total sum of n(max value present in array or
+ In this method we calculated the total sum of n(max value present in array or
   arr.length +1 array and substracted from the sum to get the missing number.
   TC= O(N)
   SC = O(1)
